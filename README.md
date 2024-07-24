@@ -1,4 +1,4 @@
-# Comprehensive Financial Analysis and Reporting Dashboard
+# Financial Analysis and Reporting Dashboard
 
 ## 1. Project Title
 **Comprehensive Financial Analysis and Reporting Dashboard**
