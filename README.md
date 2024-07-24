@@ -1,6 +1,8 @@
 # Financial Analysis and Reporting Dashboard
 # Preview 
 https://drive.google.com/file/d/1KAZB0gitmoZOLMyOluYuIcJOEjIT4x2W/view?usp=sharing
+# file
+https://drive.google.com/file/d/1jQPRkxmiNVwUkzAWJqevCoRYSlohA4d-/view?usp=sharing
 
 ## 1. Project Title
 **Comprehensive Financial Analysis and Reporting Dashboard**
